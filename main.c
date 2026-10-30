@@ -4,5 +4,9 @@
 int main()
 {
     int num;
+    switch(num)
+    {
+
+    }
     return 0;
 }
